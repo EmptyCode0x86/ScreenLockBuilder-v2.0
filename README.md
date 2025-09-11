@@ -5,7 +5,7 @@ You can customize the lock screen message, protect it with an encrypted password
 
 An optional auto-close feature allows the lock screen to automatically release at a specific date and time — giving you full control over when and how the lock behaves.
 
-This project has a long history — the first version of Screen Lock Builder was released back in 2015, and version 2.0 brings a modernized and improved experience. 
+This is a very old project — I originally built the first version back in 2015. I’ve decided to revive it and completely modernize it. 
 
 
 
